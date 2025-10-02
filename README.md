@@ -1,4 +1,4 @@
-# My Trial Site
+# portfolio
 
 This is a simple website project containing the following files:
 
@@ -24,4 +24,5 @@ This is a simple website project containing the following files:
 Louis Kemenyo
 
 ---
+
 Feel free to modify and expand this project as needed.
